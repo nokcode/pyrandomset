@@ -15,7 +15,7 @@ digits = "0123456789"
 lowercase_hex = digits + "abcdef"
 uppercase_hex = digits + "ABCDEF"
 punctuation = ",.;:"
-bracket = "()[]\{\}<>"
+bracket = "()[]{}<>"
 printable = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
 
 builtin_sets = {

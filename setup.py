@@ -5,7 +5,7 @@ with open("README.md", "r") as fp:
 
 setuptools.setup(
     name="pyrandomset",
-    version="0.1.0",
+    version="0.1.1",
     author="Rafael Ribeiro",
     description="Generate random characters based on character set.",
     long_description=long_description,
