@@ -1,4 +1,4 @@
-"""Create random characters based on character set.
+"""Generate random characters based on character set.
 """
 
 __all__ = ["generate"]
