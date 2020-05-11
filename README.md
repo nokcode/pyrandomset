@@ -1,5 +1,9 @@
 pyrandomset
 ===========
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyrandomset)
+![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/nokcode/pyrandomset?include_prereleases&label=version)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pyrandomset)
+
 
 Generate random characters based on character set.
 

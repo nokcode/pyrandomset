@@ -1,5 +1,4 @@
 .PHONY: all build upload clean
-TEST="--repository testpypi"
 
 all: build
 
